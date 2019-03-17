@@ -1,0 +1,16 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-style: solid;
+  border-width: 5px;
+}
+
+canvas
+{
+  background-color: green;
+  border-style: solid;
+  border-width: 5px;
+
+}
